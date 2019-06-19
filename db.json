@@ -1,8 +1,27 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "posts1": [
+    { "id": 1, "title": "Post 1f" },
+    { "id": 2, "title": "Post 2f" },
+    { "id": 3, "title": "Post 3f" }
+  ],
+  
+   "posts2": [
+    { "id": 1, "title": "Post 1s" },
+    { "id": 2, "title": "Post 2s" },
+    { "id": 3, "title": "Post 3s" }
+  ],
+  
+   "posts3": [
+    { "id": 1, "title": "Post 1t" },
+    { "id": 2, "title": "Post 2t" },
+    { "id": 3, "title": "Post 3t" }
+  ],
+  
+  
+   "posts4": [
+    { "id": 1, "title": "Post 1fh" },
+    { "id": 2, "title": "Post 2fh" },
+    { "id": 3, "title": "Post 3fh" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
